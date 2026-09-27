@@ -1,6 +1,7 @@
 # Creative-Research-Program-Phase-5-Presentation-on-Spinoza-s-Essays
 Phanthywork创研计划第五期参赛作品——斯宾诺萨论文报告
-<img width="1999" height="1125" alt="三才三一论_科研海报" src="https://github.com/user-attachments/assets/cc43dea3-5c58-4422-ba4b-efa0c9152b83" />
+<img width="3520" height="1980" alt="三才三一论_科研海报" src="https://github.com/user-attachments/assets/a470378b-afbe-4608-9100-8d60b3b36dd1" />
+
 **墙，而非桥：斯宾诺莎如何「证伪」三才＝三位一体**
 
 比较哲学里有一个几乎条件反射的动作：看到《周易》讲「天地人三才」，基督教讲「三位一体」，于是大手一挥——都是「三」，可以比。
@@ -56,6 +57,7 @@ Phanthywork创研计划第五期参赛作品——斯宾诺萨论文报告
 
 [三才三一论_科研海报.pptx](https://github.com/user-attachments/files/32702928/_.pptx)
 
+<img width="2000" height="6216" alt="三才三一论_科普长图" src="https://github.com/user-attachments/assets/d33a5b51-5bf3-4042-8fad-c5cc4178c254" />
 
 **📎 作品附件**
 
